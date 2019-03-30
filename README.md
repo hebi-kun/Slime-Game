@@ -1,2 +1,2 @@
 # Slime-Game
-small slime game I created for my game programming assignment. Enjoy!
+Small slime game I created for my game programming tutorial using MonoGame and Robert Cox's RC Framework. Enjoy!
